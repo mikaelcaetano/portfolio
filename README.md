@@ -8,7 +8,7 @@
 
 ![Resultado final do projeto](assets/image/previa.png)
 
-<h4 align="center"><a href="https://www.iuricode.com/">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://mikaelcaetano.github.io/portfolio/">Clique para visitar o projeto</a></h4>
 
 ## 📚 Seções
 O site é composto por 5 seções diferentes:
